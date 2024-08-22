@@ -1,0 +1,5 @@
+com\example\MongoSpring\model\PeopleStudent.class
+com\example\MongoSpring\repository\PeapleStudentRepository.class
+com\example\MongoSpring\Service\PeapleService.class
+com\example\MongoSpring\controller\PeopleController.class
+com\example\MongoSpring\MongoSpringApplication.class
